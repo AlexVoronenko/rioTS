@@ -1,0 +1,27 @@
+{
+  "name": "riots",
+  "version": "0.0.1",
+  "description": "program for visualization of distance protection characteristics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexVoronenko/rioTS.git"
+  },
+  "author": "Alexander Voronenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexVoronenko/rioTS/issues"
+  },
+  "homepage": "https://github.com/AlexVoronenko/rioTS#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.44.0",
+    "eslint-plugin-react": "^7.32.2",
+    "ts-node": "^10.9.1"
+  }
+}
